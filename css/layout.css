@@ -104,7 +104,6 @@ span{
 .td2{
 	width:50%;
 	height:200px;
-	border:3px solid black;
 	text-align:center;
 	vertical-align:top;
 	
@@ -113,6 +112,14 @@ span{
 	margin-top:30px;
 	width:120px;
 	height:120px;
-	border:1px solid black;
 	display:inline;
+}
+.logos{
+	width:90px;
+	height:90px;
+	margin-right:30px;
+}
+.picdiv{
+	padding-top: 30px;
+	margin-left:25px;
 }
