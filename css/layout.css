@@ -2,12 +2,9 @@
 	border: solid 1px #000;
 	background-color:#F4E4D3;
 }
-#mainContent {
 
-}
-
-#mainContent {
-	float:left;
+.mainContent {
+	
 }
 
 #newsFeed {
@@ -78,7 +75,3 @@ li a{
 	text-decoration:none;
 	color:black;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 8c71be12cc3880a211f7a2c124832d13f02ef005
