@@ -29,9 +29,22 @@ html{
 	width:100%;
 }
 
-li:hover{
-	font-size:150px;
-	color:#75543B;
+li a:hover{
 	font-weight:bold;
+	color:#75543B;
 }
 
+li:hover{
+	font-weight:bold;
+	color:#75543B;
+}
+
+#chart img{
+	width:1140px;
+	height:auto;
+}
+
+li a{
+	text-decoration:none;
+	color:black;
+}
