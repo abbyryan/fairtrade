@@ -1,12 +1,10 @@
 .addBorder {
 	border: solid 1px #000;
-}
-#mainContent {
-
+	background-color:#F4E4D3;
 }
 
-#mainContent {
-	float:left;
+.mainContent {
+	
 }
 
 #newsFeed {
@@ -69,7 +67,7 @@ li:hover{
 }
 
 #chart img{
-	width:1140px;
+	width:100%;
 	height:auto;
 }
 
