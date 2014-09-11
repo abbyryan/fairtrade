@@ -1,3 +1,32 @@
+.addBorder {
+	border: solid 1px #000;
+}
+#mainContent {
+
+}
+
+#mainContent {
+	float:left;
+}
+
+#newsFeed {
+	padding:9px;
+	width:200px;
+	height:auto;
+	float:right;
+	margin: 2px;
+	font-family: sans-serif;
+}
+
+#newsFeed div{
+	padding:10px;
+	border-bottom: solid 1px #bfbfbf;
+}
+
+.newsDate {
+	line-height: 1px;
+	color: #6a6a6a;
+}
 
 
 html{
