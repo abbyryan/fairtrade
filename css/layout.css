@@ -75,3 +75,8 @@ li a{
 	text-decoration:none;
 	color:black;
 }
+
+.quotes {
+	width:10px;
+	position:relative;
+}
