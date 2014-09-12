@@ -24,13 +24,33 @@
 
 
 .contentText{
+	width:81%;
+	height:670px;
+	margin:20px;
 	color:black;
 	z-index:2;
 	position:absolute;
 }
 
+.contentText h3 {
+	font-size:30px;
+	margin-left:750px;
+}
+
+.contentText h4 {
+	font-size:24px;
+	margin-left:600px;
+	margin-right:15px;
+}
+
+.contentText p {
+	font-size:20px;
+	margin-left:600px;
+	margin-right:15px;
+}
+
 iframe{
-	position:absolute;
+	position:;
 	padding-left: 20px;
 	padding-top: 20px;
 	float: left;
@@ -38,6 +58,11 @@ iframe{
 	padding-top:30px;
 	float:left;
 }
+
+/*#videoWrap {
+	float: left;
+	margin: 0 20px 5px 0;
+}*/
 
 #newsFeed {
 	padding:9px;
