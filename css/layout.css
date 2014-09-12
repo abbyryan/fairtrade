@@ -22,6 +22,35 @@
 	z-index:1;
 }
 
+.transparent2nd{
+	width:70%;
+	height:500px;
+	opacity:.6;
+	background-color:white;
+	z-index:1;
+	margin: 0 auto;
+	text-align:center;
+	margin-top:85px;
+	border-radius:50%;
+}
+
+.transparent2nd h1{
+	text-align:center;
+	padding-top:40px;
+	font-family:fantasy;
+	color:#12520C;
+	font-weight:bold;
+}
+
+.transparent2nd p{
+	padding-right:60px;
+	padding-left:60px;
+	line-height:2;
+	color:#12520C;
+	font-weight:bold;
+	padding-top:10px;
+}
+
 
 .contentText{
 	color:black;
