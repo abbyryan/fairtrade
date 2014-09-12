@@ -4,7 +4,7 @@
 }
 
 .mainContent {
-	width:1030px;
+	width:82%;
 	height:670px;
 	float:left;
 	background-image:url("../images/bg.jpg");
@@ -14,7 +14,7 @@
 }
 
 .transparent{
-	width:1030px;
+	width:81%;
 	height:670px;
 	position:absolute;
 	opacity:.6;
@@ -38,7 +38,7 @@ iframe{
 
 #newsFeed {
 	padding:9px;
-	width:200px;
+	width:15%;
 	height:auto;
 	float:right;
 	margin: 2px;
@@ -130,7 +130,7 @@ span{
 }
 .td2{
 	width:50%;
-	height:200px;
+	height:15%;
 	text-align:center;
 	vertical-align:top;
 	
