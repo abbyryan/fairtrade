@@ -5,6 +5,34 @@
 
 .mainContent {
 	display:inline;
+	width:1030px;
+	height:670px;
+	float:left;
+	background-image:url("../images/bg.jpg");
+	position:relative;
+}
+
+.transparent{
+	width:1030px;
+	height:670px;
+	position:absolute;
+	opacity:.6;
+	background-color:white;
+	z-index:1;
+}
+
+
+.contentText{
+	color:black;
+	z-index:2;
+	position:absolute;
+}
+
+iframe{
+	position:absolute;
+	padding-left: 20px;
+	padding-top: 20px;
+	float: left;
 }
 
 #newsFeed {
