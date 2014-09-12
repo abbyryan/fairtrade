@@ -14,7 +14,7 @@
 }
 
 .transparent{
-	width:81%;
+	width:82%;
 	height:670px;
 	position:absolute;
 	opacity:.6;
@@ -61,7 +61,7 @@
 	position:absolute;
 }
 
-.contentText h3 {
+/*.contentText h3 {
 	font-size:30px;
 	margin-left:750px;
 }
@@ -75,23 +75,16 @@
 .contentText p {
 	font-size:20px;
 	margin-left:600px;
-	margin-right:15px;
+	margin-right:15px;*/
 }
 
+
 iframe{
-	position:;
-	padding-left: 20px;
-	padding-top: 20px;
-	float: left;
-	padding-left:30px;
-	padding-top:30px;
+	/*padding-left:10px;
+	padding-top:10px;*/
 	float:left;
 }
 
-/*#videoWrap {
-	float: left;
-	margin: 0 20px 5px 0;
-}*/
 
 #newsFeed {
 	padding:9px;
