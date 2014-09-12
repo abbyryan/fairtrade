@@ -213,14 +213,8 @@ span{
 
 }
 
-.inline img{
-	height:200px;
-	width:200px;
-	display:inline;
-	margin-right: 70px;
-}
 #DM{
-	margin-left: 50px;
+	margin-left:50px;
 }
 
 .picSize{
@@ -230,15 +224,14 @@ span{
 .floatright{
 	position:relative;
 	float:right;
-}
-.imgSize{
-	height:200%;
+	margin-top:-530px;
 }
 .picText{
 	height:200px;
 	width:200px;
 	display:inline;
 	margin-right: 70px;
+	margin-left:70px;
 }
 
 
