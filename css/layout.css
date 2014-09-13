@@ -258,8 +258,10 @@ span{
 
 .floatright img{
 	height:300px;
-	margin-left:800px;
-	position:absolute;
+	margin-left:1000px;
+	margin-right:0px;
+	padding-right:0px;
+	border-right:0px;
 }
 
 
