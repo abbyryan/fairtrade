@@ -33,7 +33,7 @@
 }
 
 .transparent2nd{
-	width:70%;
+	width:0%;
 	height:500px;
 	opacity:.6;
 	background-color:white;
@@ -171,7 +171,7 @@ span{
 	color:#EEDEAC;
 	font-weight:bold;
 	font-size:20px;
-	margin-top: 20px;
+	margin-top: 40px;
 }
 .pFooter{
 	color:#EEDEAC;
@@ -283,7 +283,8 @@ span{
 	width:0px;
 	height:300px;
 	float:right;
-	margin-top:-730px
+	margin-top:-749px;
+	margin-right:10px;
 }
 
 .33{
@@ -314,7 +315,7 @@ span{
 	font-style:fantasy;
 	text-indent: 10px;
 	display:inline-block;
-	margin-left:35px;
+	margin-left:30px;
 }
 
 .abby{
@@ -324,7 +325,7 @@ span{
 footer{
 	width:170%;
 	position:absolute;
-	margin-top:600px;
+	margin-top:607px;
 }
 
 .DM{
@@ -337,12 +338,23 @@ footer{
 
 .transparent3{
 	width:81%;
-	height:600px;
+	height:608px;
+	color:black;
 	position:absolute;
 	opacity:.6;
 	background-color:white;
 	z-index:1;
 }
+
+.contentText2{
+	width:81%;
+	height:670px;
+	margin:20px;
+	color:black;
+	z-index:2;
+	position:absolute;
+}
+
 
 
 
